@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Je m’appelle **Gabriel**, je suis apprenti développeur chez **socraft SA**, une entreprise spécialisée dans le développement de solutions logicielles sur mesure et dans l’accompagnement de startups.
+Je m’appelle **Gabriel**, je suis développeur chez **socraft SA**, une entreprise spécialisée dans le développement de solutions logicielles sur mesure et dans l’accompagnement de startups.
 
 Aujourd’hui, je vais vous présenter le **système de qualité** est en place chez **Optifit**, une application de gestion de tournois et de compétitions sportives que j’ai créée en **2022**.
 
