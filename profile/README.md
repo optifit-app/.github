@@ -14,10 +14,10 @@ Ce projet scolaire est devenu, trois ans plus tard, une **application profession
 
 Aujourd’hui, Optifit est utilisée par **une cinquantaine d'associations sportives** en Suisse romande, notamment par l’**ACVF** pour le tournoi *Graines de Foot*, qui réunit chaque année plus de **10’000 jeunes joueurs et joueuses**.
 
-Aujourd'hui, je ne suis plus seul à travailler sur le projet :
+Maintenant je ne suis plus seul à travailler sur le projet :
 
 depuis janvier 2025,
-- **socraft SA** nous accompagnent sur la stratégie, le développement de la startup
+- **socraft SA** a commencé à nous accompagner sur le développement stratégique de la startup
 
 depuis septembre 2025,
 - **Dmytro** – A décidé de rejoindre l'aventure pour faire profiter le projet de son expérience pour le branding et l'UI/UX design  
